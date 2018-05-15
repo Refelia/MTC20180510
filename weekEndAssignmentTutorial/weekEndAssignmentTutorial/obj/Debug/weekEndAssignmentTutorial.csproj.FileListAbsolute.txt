@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Desktop\weekEndAssignmentTutorial\weekEndAssignmentTutorial\bin\Debug\weekEndAssignmentTutorial.exe.config
+C:\Users\Cyberadmin\Desktop\weekEndAssignmentTutorial\weekEndAssignmentTutorial\bin\Debug\weekEndAssignmentTutorial.exe
+C:\Users\Cyberadmin\Desktop\weekEndAssignmentTutorial\weekEndAssignmentTutorial\bin\Debug\weekEndAssignmentTutorial.pdb
+C:\Users\Cyberadmin\Desktop\weekEndAssignmentTutorial\weekEndAssignmentTutorial\obj\Debug\weekEndAssignmentTutorial.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\weekEndAssignmentTutorial\weekEndAssignmentTutorial\obj\Debug\weekEndAssignmentTutorial.Form1.resources
+C:\Users\Cyberadmin\Desktop\weekEndAssignmentTutorial\weekEndAssignmentTutorial\obj\Debug\weekEndAssignmentTutorial.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\weekEndAssignmentTutorial\weekEndAssignmentTutorial\obj\Debug\weekEndAssignmentTutorial.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\weekEndAssignmentTutorial\weekEndAssignmentTutorial\obj\Debug\weekEndAssignmentTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\weekEndAssignmentTutorial\weekEndAssignmentTutorial\obj\Debug\weekEndAssignmentTutorial.exe
+C:\Users\Cyberadmin\Desktop\weekEndAssignmentTutorial\weekEndAssignmentTutorial\obj\Debug\weekEndAssignmentTutorial.pdb

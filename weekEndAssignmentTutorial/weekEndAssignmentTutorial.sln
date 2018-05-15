@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "weekEndAssignmentTutorial", "weekEndAssignmentTutorial\weekEndAssignmentTutorial.csproj", "{7828B8A8-E8B6-43A4-B991-C4DF66E46180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toturial8-6", "Toturial8-6\Toturial8-6.csproj", "{B1AD926B-1401-4380-AE74-0C471374D697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7828B8A8-E8B6-43A4-B991-C4DF66E46180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7828B8A8-E8B6-43A4-B991-C4DF66E46180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7828B8A8-E8B6-43A4-B991-C4DF66E46180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7828B8A8-E8B6-43A4-B991-C4DF66E46180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1AD926B-1401-4380-AE74-0C471374D697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AD926B-1401-4380-AE74-0C471374D697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AD926B-1401-4380-AE74-0C471374D697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AD926B-1401-4380-AE74-0C471374D697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0986EF0-0C18-4FFB-89CD-6E90A61B4B6F}
+	EndGlobalSection
+EndGlobal

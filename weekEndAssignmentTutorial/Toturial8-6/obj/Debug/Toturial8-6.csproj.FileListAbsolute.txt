@@ -1,0 +1,10 @@
+D:\weekEndAssignmentTutorial\Toturial8-6\bin\Debug\Toturial8-6.exe.config
+D:\weekEndAssignmentTutorial\Toturial8-6\bin\Debug\Toturial8-6.exe
+D:\weekEndAssignmentTutorial\Toturial8-6\bin\Debug\Toturial8-6.pdb
+D:\weekEndAssignmentTutorial\Toturial8-6\obj\Debug\Toturial8-6.csprojResolveAssemblyReference.cache
+D:\weekEndAssignmentTutorial\Toturial8-6\obj\Debug\Toturial8_6.Form1.resources
+D:\weekEndAssignmentTutorial\Toturial8-6\obj\Debug\Toturial8_6.Properties.Resources.resources
+D:\weekEndAssignmentTutorial\Toturial8-6\obj\Debug\Toturial8-6.csproj.GenerateResource.Cache
+D:\weekEndAssignmentTutorial\Toturial8-6\obj\Debug\Toturial8-6.csproj.CoreCompileInputs.cache
+D:\weekEndAssignmentTutorial\Toturial8-6\obj\Debug\Toturial8-6.exe
+D:\weekEndAssignmentTutorial\Toturial8-6\obj\Debug\Toturial8-6.pdb
